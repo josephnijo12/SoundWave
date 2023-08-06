@@ -15,4 +15,3 @@ CREATE TABLE playlists(
     artist TEXT,
     album TEXT
 );
-

@@ -1,6 +1,5 @@
 const pg = require('pg')
 
-// change this to your actual local database name
 const localDbName = 'sound_wave'
 
 let db;

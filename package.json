@@ -1,7 +1,7 @@
 {
   "name": "soundwave",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to the SoundWave Music! This app allows users to search any song and add them to their favourite songs in to favourite playlist. Furthermore, the users will be able to add a bio on their lists, where they can share their feeling and their thoughs on their favourite playlist.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,8 @@
     "dotenv": "^16.1.1",
     "express": "^4.18.2",
     "express-session": "^1.17.3",
-    "pg": "^8.11.0"
+    "jest": "^29.6.2",
+    "pg": "^8.11.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
